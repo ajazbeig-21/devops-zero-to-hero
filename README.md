@@ -1,5 +1,7 @@
 # DevOps Zero to Hero — Complete Repo
 
+![DevOps Zero to Hero Banner](assets/devops-roadmap-banner.jpg)
+
 > A hands-on, end-to-end DevOps learning repository covering everything from Linux fundamentals to production-grade deployments. Built to accompany the **DevOps Zero to Hero** playlist.
 
 ---
